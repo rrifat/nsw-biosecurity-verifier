@@ -1,0 +1,3702 @@
+[
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 3,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "15F2BD36-2FD8-6EBD-5891-AF50B8652306",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "PASS",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587321Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "BAA613B3-6498-188E-F142-9C72190A2E60",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587326Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "C54301C3-CBEF-CC96-A473-054A9E6389BC",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587328Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "2041FA10-0EB0-E780-B76C-27C9AE07378E",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587329Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "862E9CF3-9B9D-7CF5-F2B0-AD5F74F29F13",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587330Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 3,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "AF1008F1-949C-FD9E-BBC0-F5B6BC052096",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "PASS",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587347Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "1C4C56D0-CE53-F667-4337-4E4B5BA54DF8",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587348Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "E353F8CA-2F38-207C-C5C7-1D1ACE2E0991",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587349Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "68185556-883A-E9E4-0083-E299F9C8B921",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587350Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 3,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "9A6E3600-CA88-EAF5-A238-FAD7FD431501",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "PASS",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587352Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "688DAF4C-8B93-F72C-A70F-6E43BAB1E515",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587353Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "D6D65F55-9FD0-C109-32D1-281571E45966",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587354Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 3,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "9D472E4C-086D-0FDB-9F24-153A294FF508",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "PASS",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587355Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "54E82FD1-45EC-E77E-55B5-B754EAF6E4B5",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587356Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 3,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "C0AA900C-EF6B-C1FF-808F-DD3D3E70D43B",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "PASS",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587358Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "6710821B-5CDF-54D4-5F5A-4BFA92248BFC",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587359Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "0864AF77-E88A-B382-3D70-AC5A4C81FE5F",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587360Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "1BB259F8-9187-3A37-654A-9C9CC2B8B91E",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587361Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "DD415DBB-677D-C4D0-DC6D-9B0AEABD1175",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587362Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 3,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "58582369-BDA4-473D-CE81-B4B57F86E218",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "PASS",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587363Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "2F1110EA-A7C9-2858-D3BD-391655E7E2CC",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587365Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 3,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "0A1721F9-84B5-A0E9-F9A8-6AE7F858FF27",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "PASS",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587366Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "B59BDD2A-36A0-BC86-14EB-4AB914802563",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587367Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "4279F76D-A75C-CDE7-9FB8-6CF7F014C2F8",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587368Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "318D06EB-2E77-E5FB-003A-7EF467087E5C",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587369Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "BA7E5B3A-94B1-0D71-2254-B077A076F49D",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587370Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 3,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "24D9D41E-F445-69AA-52EE-9A128B9E17AB",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "PASS",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587371Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 3,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "5A6B1DC7-A29E-D89A-CA90-576EAEF6A92B",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "PASS",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587372Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "E4EB9419-6B27-1A9C-A14D-EA03601B612E",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587373Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 3,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "F6DBBBE1-4228-31A2-D01E-26DF0E18B9C8",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "PASS",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587375Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "3A451A29-D3DC-96DC-3B9D-29A639843384",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587376Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "B37CC9BF-A323-264E-A625-3A8C117FFCE0",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587395Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "9DBCF6FE-E1D0-10AF-A70F-2EBFF3E182CC",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587396Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 3,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "750D8F9B-47FA-DF76-9455-B64D53D5274A",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "PASS",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587398Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "B1E2A1F1-2EF3-19F9-6E43-471BD89A261C",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587399Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "62850C7A-5096-F990-CED4-2960CB4BE7AD",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587401Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "8BC68B69-5667-54C4-5A32-6E7889D653A1",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587402Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "46B44DE3-CF7B-21EF-D8BD-11D024481FA6",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587403Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "0BD88918-FFFA-1835-741E-97D68227ADD0",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587404Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "429D9134-9659-0DD7-E177-6E05A06EA366",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587405Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 3,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "E46C1671-5749-EE3A-BA69-4ED47D3B115A",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "PASS",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587406Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "E6B689BF-AA05-54EA-94FA-470808349EE0",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587407Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "B0376A7F-C0EF-AC21-F8B6-23CC3F59C9D2",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587408Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "2595370E-96F7-9722-5768-16CCC0F19FB0",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587409Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "0F6A50DD-421B-E086-89BF-62A796953D0C",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587410Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 3,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "CCC49D20-D294-A522-5B71-FF9024AB72D7",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "PASS",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587411Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 3,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "0600A582-3FDD-328A-57A2-3BA18347D2CF",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "PASS",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587413Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "3973C245-6F42-662D-30EA-640C1D057756",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587426Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "E25426B8-DAD2-F75D-0BAC-E2B1EDAE07EF",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587429Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "26387C5C-7C2D-9D42-66E9-7D555CCCF4AC",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587430Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "180AE5BC-7CD6-1445-93FB-5676478259EB",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587431Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "26C91E78-2B56-F2E8-F8D0-16A557A2C215",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587432Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "807FD2AE-A434-F7D8-CBCA-DCB5C9C06B9F",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587433Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "71AE699E-A51D-9DF5-BF72-EEA9954B2AFD",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587434Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "780052E2-1296-3C10-DCEC-548B31C9C74F",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587436Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "C265D385-8DA9-67EE-1AA7-1C689341B077",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587437Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "86541D13-3F43-82C5-4CC2-40CE9E710608",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587438Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 3,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "2EB40A51-DF85-748B-3313-F29E11C0800D",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "PASS",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587439Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "07AF0840-B417-321A-2932-D07D55D6E246",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587440Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "41572A0B-465C-74D1-8F5B-24F19B0A3476",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587442Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "4D031734-2C0E-2C70-B66A-9F80AAE709AC",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587443Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "8A28D81F-520B-971F-F6AC-D333CEE5F1A8",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587444Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "BF8424C5-59D3-2528-CFAE-56A7118E9A67",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587445Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 3,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "B3580068-229F-3FAF-4AA1-8B3121A6E5B8",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "PASS",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587446Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "75518BEA-E5E3-E4E3-834D-6C341F6FEF11",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587447Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 3,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "8159BE7B-8FED-EBC7-0847-965FF9997E9E",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "PASS",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587458Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "9356A618-5BF7-9560-F0E0-AF2EF22A286D",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587460Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 3,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "CA039EFC-78EF-72A8-EC5F-792467EAC1D6",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "PASS",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587461Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "B70A748F-DF40-3AC0-A909-0B2F3878BC7E",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587462Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "7AD10575-E9E5-F8E0-127C-3BC31F309DB5",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587463Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "E8F0BC47-2C72-39F9-9285-A7D12AA726F6",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587464Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 3,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "88016DCB-B76C-2538-2B2F-53F3EF78ADB9",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "PASS",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587466Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 3,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "51F63AAE-AAF7-8BA1-9D7C-0C45C959EEA5",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "PASS",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587467Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "BC9F4051-D476-495A-2114-00F8DEF478B6",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587468Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "A7CA66AC-C432-576D-250C-82B356D1185B",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587469Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "52F0EE94-60FA-381D-563B-2258432C658F",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587470Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "20F529EC-C1B2-BD61-A86D-C7A4258642BB",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587471Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "37705331-6988-83BC-BD11-133938E836BC",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587472Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 3,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "B1695173-05AF-B9ED-947F-04B25E0329D0",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "PASS",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587473Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "A80309BC-6AA9-11AB-2D68-5C2A203EBA26",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587474Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "32AA4933-5090-5812-A999-8AE22EABEDE5",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587475Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "1A7757F8-0DA1-D10B-1A3D-7FABFF229FE2",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587476Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 3,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "54D394A9-5D52-680E-3C85-F34484CE237A",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "PASS",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587477Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 3,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "60F7F262-61B2-223D-63D3-B06265996E14",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "PASS",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587488Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 0,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "NOTIFY_OPERATOR"
+    ],
+    "event_id": "82C4E3DB-B053-B29A-B335-A3E01FCFDAC8",
+    "is_compliant": true,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587489Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 1,
+      "passed": 1,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "LOG_BREACH"
+    ],
+    "event_id": "C2BC5D6F-86AC-CE52-A22D-2F402C54799D",
+    "is_compliant": false,
+    "rules_evaluated": [
+      {
+        "failure_reason": "INCOMPLETE_DELIVERY_INFO",
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "FAIL",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587490Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 1,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "LOG_BREACH"
+    ],
+    "event_id": "10C6DE06-1208-EC99-AE3D-A27DF118C683",
+    "is_compliant": false,
+    "rules_evaluated": [
+      {
+        "failure_reason": "INCOMPLETE_DELIVERY_INFO",
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "FAIL",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "PASS",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587492Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 1,
+      "passed": 1,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "LOG_BREACH"
+    ],
+    "event_id": "5D020C15-B332-0790-D616-6E6B0B2F1EFF",
+    "is_compliant": false,
+    "rules_evaluated": [
+      {
+        "failure_reason": "INCOMPLETE_DELIVERY_INFO",
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "FAIL",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587493Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 1,
+      "passed": 1,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "LOG_BREACH"
+    ],
+    "event_id": "9E955C01-CF60-15B5-6911-C526201EF453",
+    "is_compliant": false,
+    "rules_evaluated": [
+      {
+        "failure_reason": "INCOMPLETE_DELIVERY_INFO",
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "FAIL",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587494Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 0,
+      "failed": 1,
+      "passed": 1,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "LOG_BREACH"
+    ],
+    "event_id": "CB7A5F78-812C-930F-02ED-908B00F86A5B",
+    "is_compliant": false,
+    "rules_evaluated": [
+      {
+        "failure_reason": "INCOMPLETE_DELIVERY_INFO",
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "FAIL",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587495Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 1,
+      "failed": 1,
+      "passed": 1,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "BLOCK_MOVEMENT"
+    ],
+    "event_id": "DBD3641F-0426-0D0F-7BE1-BBC28E9B87A5",
+    "is_compliant": false,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": "PIC_ATTACHMENT_MISMATCH",
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "FAIL",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587496Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 1,
+      "failed": 1,
+      "passed": 1,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "BLOCK_MOVEMENT"
+    ],
+    "event_id": "5A5A7333-E2BC-9B74-F371-F5EA70BCE473",
+    "is_compliant": false,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": "PIC_ATTACHMENT_MISMATCH",
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "FAIL",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587497Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 1,
+      "failed": 1,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "BLOCK_MOVEMENT"
+    ],
+    "event_id": "56EAB923-8298-753E-8856-76D9AE79A0BD",
+    "is_compliant": false,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": "PIC_ATTACHMENT_MISMATCH",
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "FAIL",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "PASS",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587498Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 1,
+      "failed": 1,
+      "passed": 1,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "BLOCK_MOVEMENT"
+    ],
+    "event_id": "6F10CA25-02B0-9491-D7A4-BF11649BD78A",
+    "is_compliant": false,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": "PIC_ATTACHMENT_MISMATCH",
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "FAIL",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "NOT_APPLICABLE",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587499Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 1,
+      "failed": 1,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "BLOCK_MOVEMENT"
+    ],
+    "event_id": "C5DCB933-199D-F9A1-43D8-74842866F0F2",
+    "is_compliant": false,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": "PIC_ATTACHMENT_MISMATCH",
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "FAIL",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "PASS",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587501Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 1,
+      "failed": 1,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "BLOCK_MOVEMENT"
+    ],
+    "event_id": "41A5D153-62D8-38E0-855A-13E0F97AB80F",
+    "is_compliant": false,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": "NON_COMPLIANT_EID_MISSING",
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "FAIL",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587502Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 1,
+      "failed": 1,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "BLOCK_MOVEMENT"
+    ],
+    "event_id": "EA58D2AA-7622-B0E3-8200-5FADC728C8B5",
+    "is_compliant": false,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": "NON_COMPLIANT_EID_MISSING",
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "FAIL",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587503Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 1,
+      "failed": 1,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "BLOCK_MOVEMENT"
+    ],
+    "event_id": "922E44AD-D4E3-B69D-2415-8E3B31A03268",
+    "is_compliant": false,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": "NON_COMPLIANT_EID_MISSING",
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "FAIL",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587504Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 1,
+      "failed": 1,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "BLOCK_MOVEMENT"
+    ],
+    "event_id": "2F0A1292-44F3-B274-DBAD-9942A7E1BD60",
+    "is_compliant": false,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": "NON_COMPLIANT_EID_MISSING",
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "FAIL",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587505Z"
+  },
+  {
+    "compliance_summary": {
+      "critical_failures": 1,
+      "failed": 1,
+      "passed": 2,
+      "total_rules_evaluated": 3
+    },
+    "enforcement_flags": [
+      "BLOCK_MOVEMENT"
+    ],
+    "event_id": "F12F8E2E-7E59-8682-8647-ED21BD270E82",
+    "is_compliant": false,
+    "rules_evaluated": [
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 32(1)",
+        "result": "PASS",
+        "rule_description": "Delivery Information Completeness",
+        "rule_id": "R1.1"
+      },
+      {
+        "failure_reason": null,
+        "regulatory_source": "NSW Clause 17(3)",
+        "result": "PASS",
+        "rule_description": "PIC Attachment Locality",
+        "rule_id": "R2.4"
+      },
+      {
+        "failure_reason": "NON_COMPLIANT_EID_MISSING",
+        "regulatory_source": "NSW Clause 17(4)(b)",
+        "result": "FAIL",
+        "rule_description": "eID Mandate for Sheep/Goats",
+        "rule_id": "R2.5"
+      }
+    ],
+    "validation_timestamp": "2026-02-25T20:10:25.587506Z"
+  }
+]

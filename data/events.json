@@ -1,0 +1,2902 @@
+[
+  {
+    "event_id": "15F2BD36-2FD8-6EBD-5891-AF50B8652306",
+    "identifier": {
+      "device_type": "electronic_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NXJ0UCXD"
+    },
+    "movement": {
+      "departure_date": "2026-02-23",
+      "destination_property_pic": "NBM9xVli",
+      "destination_type": "farm",
+      "movement_document_id": "DOC-4dc63ee1",
+      "previous_property_pic": "NXJ0UCXD"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 3d6d3df6",
+      "person_in_charge": "Driver 8e9563c6"
+    },
+    "stock_details": {
+      "birth_date": "2025-05-11",
+      "bred_on_previous_property": true,
+      "count": 36,
+      "species": "goat"
+    },
+    "timestamp": "2026-02-25T20:10:25.576625Z"
+  },
+  {
+    "event_id": "BAA613B3-6498-188E-F142-9C72190A2E60",
+    "identifier": {
+      "device_type": "breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NKikF12A"
+    },
+    "movement": {
+      "departure_date": "2026-02-24",
+      "destination_property_pic": "NMDtQL4F",
+      "destination_type": "farm",
+      "movement_document_id": "DOC-e6f5f2e4",
+      "previous_property_pic": "NKikF12A"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner cb3c8627",
+      "person_in_charge": "Driver 05990fb7"
+    },
+    "stock_details": {
+      "birth_date": "2025-08-31",
+      "bred_on_previous_property": false,
+      "count": 45,
+      "species": "cattle"
+    },
+    "timestamp": "2026-02-25T20:10:25.576653Z"
+  },
+  {
+    "event_id": "C54301C3-CBEF-CC96-A473-054A9E6389BC",
+    "identifier": {
+      "device_type": "brand",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NCI5ghrm"
+    },
+    "movement": {
+      "departure_date": "2026-02-17",
+      "destination_property_pic": "NTtAMt7E",
+      "destination_type": "saleyard",
+      "movement_document_id": "DOC-b6b19e85",
+      "previous_property_pic": "NCI5ghrm"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 040971d2",
+      "person_in_charge": "Driver 1453d9dc"
+    },
+    "stock_details": {
+      "birth_date": "2025-03-07",
+      "bred_on_previous_property": false,
+      "count": 44,
+      "species": "pig"
+    },
+    "timestamp": "2026-02-25T20:10:25.576663Z"
+  },
+  {
+    "event_id": "2041FA10-0EB0-E780-B76C-27C9AE07378E",
+    "identifier": {
+      "device_type": "electronic_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NBkJbbcj"
+    },
+    "movement": {
+      "departure_date": "2026-02-21",
+      "destination_property_pic": "NBLRpqxM",
+      "destination_type": "abattoir",
+      "movement_document_id": "DOC-96e4de22",
+      "previous_property_pic": "NBkJbbcj"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 52bca550",
+      "person_in_charge": "Driver d859cb71"
+    },
+    "stock_details": {
+      "birth_date": "2024-05-02",
+      "bred_on_previous_property": true,
+      "count": 46,
+      "species": "goat"
+    },
+    "timestamp": "2026-02-25T20:10:25.576672Z"
+  },
+  {
+    "event_id": "862E9CF3-9B9D-7CF5-F2B0-AD5F74F29F13",
+    "identifier": {
+      "device_type": "breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NRf0uSlV"
+    },
+    "movement": {
+      "departure_date": "2026-02-13",
+      "destination_property_pic": "NSXWu2Kt",
+      "destination_type": "saleyard",
+      "movement_document_id": "DOC-4ae3f7d1",
+      "previous_property_pic": "NRf0uSlV"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 15339570",
+      "person_in_charge": "Driver f92f88ec"
+    },
+    "stock_details": {
+      "birth_date": "2024-11-07",
+      "bred_on_previous_property": true,
+      "count": 1,
+      "species": "pig"
+    },
+    "timestamp": "2026-02-25T20:10:25.576684Z"
+  },
+  {
+    "event_id": "AF1008F1-949C-FD9E-BBC0-F5B6BC052096",
+    "identifier": {
+      "device_type": "electronic_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NPyZyGTo"
+    },
+    "movement": {
+      "departure_date": "2026-02-09",
+      "destination_property_pic": "NZGI2qKN",
+      "destination_type": "depot",
+      "movement_document_id": "DOC-fac262d1",
+      "previous_property_pic": "NPyZyGTo"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 8e6aa837",
+      "person_in_charge": "Driver 74f91d41"
+    },
+    "stock_details": {
+      "birth_date": "2025-04-20",
+      "bred_on_previous_property": true,
+      "count": 10,
+      "species": "goat"
+    },
+    "timestamp": "2026-02-25T20:10:25.576693Z"
+  },
+  {
+    "event_id": "1C4C56D0-CE53-F667-4337-4E4B5BA54DF8",
+    "identifier": {
+      "device_type": "breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NPjWvqUB"
+    },
+    "movement": {
+      "departure_date": "2026-02-07",
+      "destination_property_pic": "NPOECWZI",
+      "destination_type": "abattoir",
+      "movement_document_id": "DOC-c64dea68",
+      "previous_property_pic": "NPjWvqUB"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 5ee5a684",
+      "person_in_charge": "Driver 6381a184"
+    },
+    "stock_details": {
+      "birth_date": "2024-05-02",
+      "bred_on_previous_property": true,
+      "count": 32,
+      "species": "goat"
+    },
+    "timestamp": "2026-02-25T20:10:25.576704Z"
+  },
+  {
+    "event_id": "E353F8CA-2F38-207C-C5C7-1D1ACE2E0991",
+    "identifier": {
+      "device_type": "electronic_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NDT4p0bW"
+    },
+    "movement": {
+      "departure_date": "2026-02-02",
+      "destination_property_pic": "NXixqVfU",
+      "destination_type": "depot",
+      "movement_document_id": "DOC-e47a1cce",
+      "previous_property_pic": "NDT4p0bW"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 76eca900",
+      "person_in_charge": "Driver bc1bc3f7"
+    },
+    "stock_details": {
+      "birth_date": "2024-06-22",
+      "bred_on_previous_property": false,
+      "count": 13,
+      "species": "cattle"
+    },
+    "timestamp": "2026-02-25T20:10:25.576716Z"
+  },
+  {
+    "event_id": "68185556-883A-E9E4-0083-E299F9C8B921",
+    "identifier": {
+      "device_type": "breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NUztgVFK"
+    },
+    "movement": {
+      "departure_date": "2026-02-06",
+      "destination_property_pic": "NBvqALQt",
+      "destination_type": "farm",
+      "movement_document_id": "DOC-75698cec",
+      "previous_property_pic": "NUztgVFK"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner b2b486c1",
+      "person_in_charge": "Driver 88b2f303"
+    },
+    "stock_details": {
+      "birth_date": "2024-08-05",
+      "bred_on_previous_property": false,
+      "count": 18,
+      "species": "sheep"
+    },
+    "timestamp": "2026-02-25T20:10:25.576721Z"
+  },
+  {
+    "event_id": "9A6E3600-CA88-EAF5-A238-FAD7FD431501",
+    "identifier": {
+      "device_type": "electronic_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NMOzGAHu"
+    },
+    "movement": {
+      "departure_date": "2026-02-14",
+      "destination_property_pic": "NV9fDqrp",
+      "destination_type": "abattoir",
+      "movement_document_id": "DOC-814089ae",
+      "previous_property_pic": "NMOzGAHu"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner ffdb8770",
+      "person_in_charge": "Driver 234fca00"
+    },
+    "stock_details": {
+      "birth_date": "2025-01-10",
+      "bred_on_previous_property": false,
+      "count": 37,
+      "species": "goat"
+    },
+    "timestamp": "2026-02-25T20:10:25.576731Z"
+  },
+  {
+    "event_id": "688DAF4C-8B93-F72C-A70F-6E43BAB1E515",
+    "identifier": {
+      "device_type": "brand",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NS1KwHwr"
+    },
+    "movement": {
+      "departure_date": "2026-02-05",
+      "destination_property_pic": "NPOqugUL",
+      "destination_type": "saleyard",
+      "movement_document_id": "DOC-f7083882",
+      "previous_property_pic": "NS1KwHwr"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 0d72005c",
+      "person_in_charge": "Driver b1faa099"
+    },
+    "stock_details": {
+      "birth_date": "2024-06-09",
+      "bred_on_previous_property": false,
+      "count": 33,
+      "species": "goat"
+    },
+    "timestamp": "2026-02-25T20:10:25.576738Z"
+  },
+  {
+    "event_id": "D6D65F55-9FD0-C109-32D1-281571E45966",
+    "identifier": {
+      "device_type": "electronic_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NB550S9R"
+    },
+    "movement": {
+      "departure_date": "2026-02-11",
+      "destination_property_pic": "NYfV0UJk",
+      "destination_type": "farm",
+      "movement_document_id": "DOC-0b57b058",
+      "previous_property_pic": "NB550S9R"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner f2390f8e",
+      "person_in_charge": "Driver 6c2e0f6b"
+    },
+    "stock_details": {
+      "birth_date": "2025-02-28",
+      "bred_on_previous_property": false,
+      "count": 12,
+      "species": "cattle"
+    },
+    "timestamp": "2026-02-25T20:10:25.576743Z"
+  },
+  {
+    "event_id": "9D472E4C-086D-0FDB-9F24-153A294FF508",
+    "identifier": {
+      "device_type": "electronic_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NQ2PYk9V"
+    },
+    "movement": {
+      "departure_date": "2026-02-15",
+      "destination_property_pic": "NSwNt0Hz",
+      "destination_type": "depot",
+      "movement_document_id": "DOC-b5248684",
+      "previous_property_pic": "NQ2PYk9V"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 724a0cdc",
+      "person_in_charge": "Driver 74bef2ef"
+    },
+    "stock_details": {
+      "birth_date": "2025-11-06",
+      "bred_on_previous_property": false,
+      "count": 42,
+      "species": "sheep"
+    },
+    "timestamp": "2026-02-25T20:10:25.576753Z"
+  },
+  {
+    "event_id": "54E82FD1-45EC-E77E-55B5-B754EAF6E4B5",
+    "identifier": {
+      "device_type": "brand",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NUOg6vt0"
+    },
+    "movement": {
+      "departure_date": "2026-02-09",
+      "destination_property_pic": "NFNjUGv4",
+      "destination_type": "saleyard",
+      "movement_document_id": "DOC-95d601e1",
+      "previous_property_pic": "NUOg6vt0"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 0056b7b3",
+      "person_in_charge": "Driver 4d10ad9c"
+    },
+    "stock_details": {
+      "birth_date": "2024-12-18",
+      "bred_on_previous_property": true,
+      "count": 15,
+      "species": "cattle"
+    },
+    "timestamp": "2026-02-25T20:10:25.576761Z"
+  },
+  {
+    "event_id": "C0AA900C-EF6B-C1FF-808F-DD3D3E70D43B",
+    "identifier": {
+      "device_type": "electronic_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NQE70Jj0"
+    },
+    "movement": {
+      "departure_date": "2026-02-04",
+      "destination_property_pic": "NBJ3jdc2",
+      "destination_type": "farm",
+      "movement_document_id": "DOC-527469ec",
+      "previous_property_pic": "NQE70Jj0"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner d842b494",
+      "person_in_charge": "Driver 3e303fb2"
+    },
+    "stock_details": {
+      "birth_date": "2025-03-19",
+      "bred_on_previous_property": false,
+      "count": 50,
+      "species": "goat"
+    },
+    "timestamp": "2026-02-25T20:10:25.576768Z"
+  },
+  {
+    "event_id": "6710821B-5CDF-54D4-5F5A-4BFA92248BFC",
+    "identifier": {
+      "device_type": "breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NXeGpri5"
+    },
+    "movement": {
+      "departure_date": "2026-02-08",
+      "destination_property_pic": "NTyuEldb",
+      "destination_type": "abattoir",
+      "movement_document_id": "DOC-419fb0e1",
+      "previous_property_pic": "NXeGpri5"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 03dc798c",
+      "person_in_charge": "Driver 0b12166e"
+    },
+    "stock_details": {
+      "birth_date": "2024-05-09",
+      "bred_on_previous_property": true,
+      "count": 21,
+      "species": "pig"
+    },
+    "timestamp": "2026-02-25T20:10:25.576779Z"
+  },
+  {
+    "event_id": "0864AF77-E88A-B382-3D70-AC5A4C81FE5F",
+    "identifier": {
+      "device_type": "breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NPcHmfkJ"
+    },
+    "movement": {
+      "departure_date": "2026-02-19",
+      "destination_property_pic": "NB8dev43",
+      "destination_type": "farm",
+      "movement_document_id": "DOC-30d9a2c3",
+      "previous_property_pic": "NPcHmfkJ"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner b28c193f",
+      "person_in_charge": "Driver afcb20ca"
+    },
+    "stock_details": {
+      "birth_date": "2024-03-09",
+      "bred_on_previous_property": true,
+      "count": 25,
+      "species": "goat"
+    },
+    "timestamp": "2026-02-25T20:10:25.576784Z"
+  },
+  {
+    "event_id": "1BB259F8-9187-3A37-654A-9C9CC2B8B91E",
+    "identifier": {
+      "device_type": "brand",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NQcCqcLd"
+    },
+    "movement": {
+      "departure_date": "2026-01-28",
+      "destination_property_pic": "NQ1hwWHB",
+      "destination_type": "depot",
+      "movement_document_id": "DOC-7213ced6",
+      "previous_property_pic": "NQcCqcLd"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner edbe39c1",
+      "person_in_charge": "Driver 9ed99218"
+    },
+    "stock_details": {
+      "birth_date": "2024-07-19",
+      "bred_on_previous_property": true,
+      "count": 41,
+      "species": "sheep"
+    },
+    "timestamp": "2026-02-25T20:10:25.576796Z"
+  },
+  {
+    "event_id": "DD415DBB-677D-C4D0-DC6D-9B0AEABD1175",
+    "identifier": {
+      "device_type": "post_breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NJzwOMFE"
+    },
+    "movement": {
+      "departure_date": "2026-01-26",
+      "destination_property_pic": "NQkTwY41",
+      "destination_type": "farm",
+      "movement_document_id": "DOC-f8035e18",
+      "previous_property_pic": "NJzwOMFE"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 10be4bd7",
+      "person_in_charge": "Driver fedc907d"
+    },
+    "stock_details": {
+      "birth_date": "2024-06-07",
+      "bred_on_previous_property": false,
+      "count": 24,
+      "species": "pig"
+    },
+    "timestamp": "2026-02-25T20:10:25.576800Z"
+  },
+  {
+    "event_id": "58582369-BDA4-473D-CE81-B4B57F86E218",
+    "identifier": {
+      "device_type": "electronic_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NHCwncwG"
+    },
+    "movement": {
+      "departure_date": "2026-02-20",
+      "destination_property_pic": "NHPdOrK3",
+      "destination_type": "farm",
+      "movement_document_id": "DOC-68ea14bb",
+      "previous_property_pic": "NHCwncwG"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner c8bf3ce8",
+      "person_in_charge": "Driver d9e3e03f"
+    },
+    "stock_details": {
+      "birth_date": "2025-08-07",
+      "bred_on_previous_property": false,
+      "count": 9,
+      "species": "sheep"
+    },
+    "timestamp": "2026-02-25T20:10:25.576805Z"
+  },
+  {
+    "event_id": "2F1110EA-A7C9-2858-D3BD-391655E7E2CC",
+    "identifier": {
+      "device_type": "post_breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NJ54WKS4"
+    },
+    "movement": {
+      "departure_date": "2026-02-04",
+      "destination_property_pic": "NBkRF1W1",
+      "destination_type": "abattoir",
+      "movement_document_id": "DOC-2cffc465",
+      "previous_property_pic": "NJ54WKS4"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 0479faa6",
+      "person_in_charge": "Driver 3dee9b75"
+    },
+    "stock_details": {
+      "birth_date": "2024-10-31",
+      "bred_on_previous_property": false,
+      "count": 8,
+      "species": "sheep"
+    },
+    "timestamp": "2026-02-25T20:10:25.576809Z"
+  },
+  {
+    "event_id": "0A1721F9-84B5-A0E9-F9A8-6AE7F858FF27",
+    "identifier": {
+      "device_type": "electronic_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NEicl58k"
+    },
+    "movement": {
+      "departure_date": "2026-02-10",
+      "destination_property_pic": "NU9BrQkP",
+      "destination_type": "abattoir",
+      "movement_document_id": "DOC-4aaaaadf",
+      "previous_property_pic": "NEicl58k"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner fc5e26fe",
+      "person_in_charge": "Driver 9d7ea1ec"
+    },
+    "stock_details": {
+      "birth_date": "2025-06-09",
+      "bred_on_previous_property": true,
+      "count": 20,
+      "species": "sheep"
+    },
+    "timestamp": "2026-02-25T20:10:25.576815Z"
+  },
+  {
+    "event_id": "B59BDD2A-36A0-BC86-14EB-4AB914802563",
+    "identifier": {
+      "device_type": "post_breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NKkZ0iBK"
+    },
+    "movement": {
+      "departure_date": "2026-02-04",
+      "destination_property_pic": "NTVI2r2i",
+      "destination_type": "abattoir",
+      "movement_document_id": "DOC-b0f33630",
+      "previous_property_pic": "NKkZ0iBK"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 36f4498a",
+      "person_in_charge": "Driver e05fd083"
+    },
+    "stock_details": {
+      "birth_date": "2024-09-15",
+      "bred_on_previous_property": false,
+      "count": 37,
+      "species": "goat"
+    },
+    "timestamp": "2026-02-25T20:10:25.576829Z"
+  },
+  {
+    "event_id": "4279F76D-A75C-CDE7-9FB8-6CF7F014C2F8",
+    "identifier": {
+      "device_type": "post_breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NNvUW4wg"
+    },
+    "movement": {
+      "departure_date": "2026-02-18",
+      "destination_property_pic": "NNgKwFKG",
+      "destination_type": "saleyard",
+      "movement_document_id": "DOC-f2bdeae5",
+      "previous_property_pic": "NNvUW4wg"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 0a25c117",
+      "person_in_charge": "Driver 811bb0be"
+    },
+    "stock_details": {
+      "birth_date": "2024-02-22",
+      "bred_on_previous_property": true,
+      "count": 39,
+      "species": "pig"
+    },
+    "timestamp": "2026-02-25T20:10:25.576834Z"
+  },
+  {
+    "event_id": "318D06EB-2E77-E5FB-003A-7EF467087E5C",
+    "identifier": {
+      "device_type": "breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NB6qoF4o"
+    },
+    "movement": {
+      "departure_date": "2026-02-16",
+      "destination_property_pic": "NZqkqkfh",
+      "destination_type": "abattoir",
+      "movement_document_id": "DOC-be371c73",
+      "previous_property_pic": "NB6qoF4o"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 0a2d6450",
+      "person_in_charge": "Driver 4366a741"
+    },
+    "stock_details": {
+      "birth_date": "2025-09-02",
+      "bred_on_previous_property": true,
+      "count": 49,
+      "species": "cattle"
+    },
+    "timestamp": "2026-02-25T20:10:25.576845Z"
+  },
+  {
+    "event_id": "BA7E5B3A-94B1-0D71-2254-B077A076F49D",
+    "identifier": {
+      "device_type": "electronic_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NYTZOTLY"
+    },
+    "movement": {
+      "departure_date": "2026-01-30",
+      "destination_property_pic": "NBnfcKek",
+      "destination_type": "saleyard",
+      "movement_document_id": "DOC-b8fbaa9e",
+      "previous_property_pic": "NYTZOTLY"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 31571d1d",
+      "person_in_charge": "Driver 8893c190"
+    },
+    "stock_details": {
+      "birth_date": "2025-09-06",
+      "bred_on_previous_property": false,
+      "count": 15,
+      "species": "cattle"
+    },
+    "timestamp": "2026-02-25T20:10:25.576850Z"
+  },
+  {
+    "event_id": "24D9D41E-F445-69AA-52EE-9A128B9E17AB",
+    "identifier": {
+      "device_type": "electronic_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NVlKKjKM"
+    },
+    "movement": {
+      "departure_date": "2026-02-21",
+      "destination_property_pic": "NCYjRzVn",
+      "destination_type": "depot",
+      "movement_document_id": "DOC-9c02d592",
+      "previous_property_pic": "NVlKKjKM"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 0ebd98d8",
+      "person_in_charge": "Driver 79a35c14"
+    },
+    "stock_details": {
+      "birth_date": "2025-04-08",
+      "bred_on_previous_property": false,
+      "count": 26,
+      "species": "sheep"
+    },
+    "timestamp": "2026-02-25T20:10:25.576858Z"
+  },
+  {
+    "event_id": "5A6B1DC7-A29E-D89A-CA90-576EAEF6A92B",
+    "identifier": {
+      "device_type": "electronic_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NL1nVBbQ"
+    },
+    "movement": {
+      "departure_date": "2026-02-19",
+      "destination_property_pic": "NN7vDYIL",
+      "destination_type": "depot",
+      "movement_document_id": "DOC-5778d92d",
+      "previous_property_pic": "NL1nVBbQ"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 39065e3b",
+      "person_in_charge": "Driver 3b0251f5"
+    },
+    "stock_details": {
+      "birth_date": "2025-03-28",
+      "bred_on_previous_property": true,
+      "count": 16,
+      "species": "sheep"
+    },
+    "timestamp": "2026-02-25T20:10:25.576863Z"
+  },
+  {
+    "event_id": "E4EB9419-6B27-1A9C-A14D-EA03601B612E",
+    "identifier": {
+      "device_type": "electronic_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NAjTQ9KE"
+    },
+    "movement": {
+      "departure_date": "2026-02-05",
+      "destination_property_pic": "NQlDYOWo",
+      "destination_type": "depot",
+      "movement_document_id": "DOC-c8f68781",
+      "previous_property_pic": "NAjTQ9KE"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner a8f8f238",
+      "person_in_charge": "Driver 906d1c33"
+    },
+    "stock_details": {
+      "birth_date": "2024-06-30",
+      "bred_on_previous_property": true,
+      "count": 27,
+      "species": "goat"
+    },
+    "timestamp": "2026-02-25T20:10:25.576867Z"
+  },
+  {
+    "event_id": "F6DBBBE1-4228-31A2-D01E-26DF0E18B9C8",
+    "identifier": {
+      "device_type": "electronic_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NYesjvv7"
+    },
+    "movement": {
+      "departure_date": "2026-02-05",
+      "destination_property_pic": "NJrLYAW0",
+      "destination_type": "depot",
+      "movement_document_id": "DOC-19abf696",
+      "previous_property_pic": "NYesjvv7"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner c8c69fa1",
+      "person_in_charge": "Driver f7cad77f"
+    },
+    "stock_details": {
+      "birth_date": "2025-08-10",
+      "bred_on_previous_property": true,
+      "count": 4,
+      "species": "goat"
+    },
+    "timestamp": "2026-02-25T20:10:25.576873Z"
+  },
+  {
+    "event_id": "3A451A29-D3DC-96DC-3B9D-29A639843384",
+    "identifier": {
+      "device_type": "brand",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NRfk3ne2"
+    },
+    "movement": {
+      "departure_date": "2026-01-27",
+      "destination_property_pic": "NKvliVwM",
+      "destination_type": "saleyard",
+      "movement_document_id": "DOC-bf0acfd4",
+      "previous_property_pic": "NRfk3ne2"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 6c9111ec",
+      "person_in_charge": "Driver a8dcad21"
+    },
+    "stock_details": {
+      "birth_date": "2024-04-20",
+      "bred_on_previous_property": false,
+      "count": 11,
+      "species": "sheep"
+    },
+    "timestamp": "2026-02-25T20:10:25.576878Z"
+  },
+  {
+    "event_id": "B37CC9BF-A323-264E-A625-3A8C117FFCE0",
+    "identifier": {
+      "device_type": "breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NDwAlDhP"
+    },
+    "movement": {
+      "departure_date": "2026-02-03",
+      "destination_property_pic": "NZxWVfNf",
+      "destination_type": "abattoir",
+      "movement_document_id": "DOC-9183d539",
+      "previous_property_pic": "NDwAlDhP"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner bffb8df6",
+      "person_in_charge": "Driver 1c1fb0a3"
+    },
+    "stock_details": {
+      "birth_date": "2024-08-10",
+      "bred_on_previous_property": true,
+      "count": 12,
+      "species": "goat"
+    },
+    "timestamp": "2026-02-25T20:10:25.576890Z"
+  },
+  {
+    "event_id": "9DBCF6FE-E1D0-10AF-A70F-2EBFF3E182CC",
+    "identifier": {
+      "device_type": "breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NTfRHkZn"
+    },
+    "movement": {
+      "departure_date": "2026-02-02",
+      "destination_property_pic": "NZIrQppQ",
+      "destination_type": "saleyard",
+      "movement_document_id": "DOC-4aa016d5",
+      "previous_property_pic": "NTfRHkZn"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 07b0b9a5",
+      "person_in_charge": "Driver ddac193d"
+    },
+    "stock_details": {
+      "birth_date": "2025-02-18",
+      "bred_on_previous_property": true,
+      "count": 27,
+      "species": "pig"
+    },
+    "timestamp": "2026-02-25T20:10:25.576894Z"
+  },
+  {
+    "event_id": "750D8F9B-47FA-DF76-9455-B64D53D5274A",
+    "identifier": {
+      "device_type": "electronic_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NZ7nuDRd"
+    },
+    "movement": {
+      "departure_date": "2026-02-23",
+      "destination_property_pic": "NYTU8m2X",
+      "destination_type": "farm",
+      "movement_document_id": "DOC-48f9f97a",
+      "previous_property_pic": "NZ7nuDRd"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner f5f31090",
+      "person_in_charge": "Driver 1c253b4e"
+    },
+    "stock_details": {
+      "birth_date": "2025-09-18",
+      "bred_on_previous_property": false,
+      "count": 3,
+      "species": "sheep"
+    },
+    "timestamp": "2026-02-25T20:10:25.576904Z"
+  },
+  {
+    "event_id": "B1E2A1F1-2EF3-19F9-6E43-471BD89A261C",
+    "identifier": {
+      "device_type": "electronic_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NLQ3q5GB"
+    },
+    "movement": {
+      "departure_date": "2026-02-23",
+      "destination_property_pic": "NG6fdxKD",
+      "destination_type": "abattoir",
+      "movement_document_id": "DOC-ef42048b",
+      "previous_property_pic": "NLQ3q5GB"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 76e2b778",
+      "person_in_charge": "Driver ea68e61f"
+    },
+    "stock_details": {
+      "birth_date": "2024-04-01",
+      "bred_on_previous_property": false,
+      "count": 50,
+      "species": "cattle"
+    },
+    "timestamp": "2026-02-25T20:10:25.576908Z"
+  },
+  {
+    "event_id": "62850C7A-5096-F990-CED4-2960CB4BE7AD",
+    "identifier": {
+      "device_type": "brand",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NAVBxE24"
+    },
+    "movement": {
+      "departure_date": "2026-02-24",
+      "destination_property_pic": "NBzQdlOx",
+      "destination_type": "farm",
+      "movement_document_id": "DOC-3f211e41",
+      "previous_property_pic": "NAVBxE24"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 4f22e3b4",
+      "person_in_charge": "Driver 624bb1b8"
+    },
+    "stock_details": {
+      "birth_date": "2025-03-25",
+      "bred_on_previous_property": false,
+      "count": 1,
+      "species": "cattle"
+    },
+    "timestamp": "2026-02-25T20:10:25.576913Z"
+  },
+  {
+    "event_id": "8BC68B69-5667-54C4-5A32-6E7889D653A1",
+    "identifier": {
+      "device_type": "post_breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NFjvL0AT"
+    },
+    "movement": {
+      "departure_date": "2026-02-10",
+      "destination_property_pic": "NKbIRDKS",
+      "destination_type": "farm",
+      "movement_document_id": "DOC-5c146f10",
+      "previous_property_pic": "NFjvL0AT"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner eba7fc96",
+      "person_in_charge": "Driver 93d4c784"
+    },
+    "stock_details": {
+      "birth_date": "2025-06-14",
+      "bred_on_previous_property": false,
+      "count": 31,
+      "species": "pig"
+    },
+    "timestamp": "2026-02-25T20:10:25.576921Z"
+  },
+  {
+    "event_id": "46B44DE3-CF7B-21EF-D8BD-11D024481FA6",
+    "identifier": {
+      "device_type": "post_breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NKPxDRmu"
+    },
+    "movement": {
+      "departure_date": "2026-01-31",
+      "destination_property_pic": "NQU43nzt",
+      "destination_type": "saleyard",
+      "movement_document_id": "DOC-b7e1d895",
+      "previous_property_pic": "NKPxDRmu"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 1ce21832",
+      "person_in_charge": "Driver 5507734c"
+    },
+    "stock_details": {
+      "birth_date": "2024-11-18",
+      "bred_on_previous_property": false,
+      "count": 45,
+      "species": "sheep"
+    },
+    "timestamp": "2026-02-25T20:10:25.576925Z"
+  },
+  {
+    "event_id": "0BD88918-FFFA-1835-741E-97D68227ADD0",
+    "identifier": {
+      "device_type": "brand",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NKIMYymp"
+    },
+    "movement": {
+      "departure_date": "2026-02-18",
+      "destination_property_pic": "NKDV55vO",
+      "destination_type": "farm",
+      "movement_document_id": "DOC-6047134c",
+      "previous_property_pic": "NKIMYymp"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner e5c101d8",
+      "person_in_charge": "Driver ae30ab60"
+    },
+    "stock_details": {
+      "birth_date": "2024-05-21",
+      "bred_on_previous_property": true,
+      "count": 28,
+      "species": "pig"
+    },
+    "timestamp": "2026-02-25T20:10:25.576930Z"
+  },
+  {
+    "event_id": "429D9134-9659-0DD7-E177-6E05A06EA366",
+    "identifier": {
+      "device_type": "breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NBrjg6U4"
+    },
+    "movement": {
+      "departure_date": "2026-02-14",
+      "destination_property_pic": "NJoRguBH",
+      "destination_type": "depot",
+      "movement_document_id": "DOC-78f79266",
+      "previous_property_pic": "NBrjg6U4"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 2ce749e4",
+      "person_in_charge": "Driver 988082be"
+    },
+    "stock_details": {
+      "birth_date": "2024-10-22",
+      "bred_on_previous_property": true,
+      "count": 16,
+      "species": "pig"
+    },
+    "timestamp": "2026-02-25T20:10:25.576935Z"
+  },
+  {
+    "event_id": "E46C1671-5749-EE3A-BA69-4ED47D3B115A",
+    "identifier": {
+      "device_type": "electronic_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NBATuILn"
+    },
+    "movement": {
+      "departure_date": "2026-02-24",
+      "destination_property_pic": "NJHgx3aT",
+      "destination_type": "saleyard",
+      "movement_document_id": "DOC-580cc69b",
+      "previous_property_pic": "NBATuILn"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner b8a29aac",
+      "person_in_charge": "Driver 14f01862"
+    },
+    "stock_details": {
+      "birth_date": "2025-05-28",
+      "bred_on_previous_property": true,
+      "count": 36,
+      "species": "sheep"
+    },
+    "timestamp": "2026-02-25T20:10:25.576939Z"
+  },
+  {
+    "event_id": "E6B689BF-AA05-54EA-94FA-470808349EE0",
+    "identifier": {
+      "device_type": "post_breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NSj3O03C"
+    },
+    "movement": {
+      "departure_date": "2026-02-22",
+      "destination_property_pic": "NS45tepJ",
+      "destination_type": "saleyard",
+      "movement_document_id": "DOC-28be80b9",
+      "previous_property_pic": "NSj3O03C"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 595f5298",
+      "person_in_charge": "Driver c2c81662"
+    },
+    "stock_details": {
+      "birth_date": "2024-03-26",
+      "bred_on_previous_property": true,
+      "count": 41,
+      "species": "goat"
+    },
+    "timestamp": "2026-02-25T20:10:25.576951Z"
+  },
+  {
+    "event_id": "B0376A7F-C0EF-AC21-F8B6-23CC3F59C9D2",
+    "identifier": {
+      "device_type": "brand",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NAY6UEk5"
+    },
+    "movement": {
+      "departure_date": "2026-02-06",
+      "destination_property_pic": "NPKaZCd6",
+      "destination_type": "saleyard",
+      "movement_document_id": "DOC-cc2e6a97",
+      "previous_property_pic": "NAY6UEk5"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner b8520f83",
+      "person_in_charge": "Driver 7bc08ac7"
+    },
+    "stock_details": {
+      "birth_date": "2024-09-06",
+      "bred_on_previous_property": false,
+      "count": 2,
+      "species": "goat"
+    },
+    "timestamp": "2026-02-25T20:10:25.576960Z"
+  },
+  {
+    "event_id": "2595370E-96F7-9722-5768-16CCC0F19FB0",
+    "identifier": {
+      "device_type": "post_breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NTdnHG7V"
+    },
+    "movement": {
+      "departure_date": "2026-02-18",
+      "destination_property_pic": "NHfSEymd",
+      "destination_type": "depot",
+      "movement_document_id": "DOC-b83dd0bd",
+      "previous_property_pic": "NTdnHG7V"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner fb524b28",
+      "person_in_charge": "Driver 599fc591"
+    },
+    "stock_details": {
+      "birth_date": "2025-09-19",
+      "bred_on_previous_property": true,
+      "count": 27,
+      "species": "cattle"
+    },
+    "timestamp": "2026-02-25T20:10:25.576965Z"
+  },
+  {
+    "event_id": "0F6A50DD-421B-E086-89BF-62A796953D0C",
+    "identifier": {
+      "device_type": "breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NGyEQpQA"
+    },
+    "movement": {
+      "departure_date": "2026-01-27",
+      "destination_property_pic": "NL4LjdBH",
+      "destination_type": "saleyard",
+      "movement_document_id": "DOC-c5096d33",
+      "previous_property_pic": "NGyEQpQA"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 00998dd2",
+      "person_in_charge": "Driver f53b132f"
+    },
+    "stock_details": {
+      "birth_date": "2024-06-04",
+      "bred_on_previous_property": true,
+      "count": 43,
+      "species": "cattle"
+    },
+    "timestamp": "2026-02-25T20:10:25.576969Z"
+  },
+  {
+    "event_id": "CCC49D20-D294-A522-5B71-FF9024AB72D7",
+    "identifier": {
+      "device_type": "electronic_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NREm77gB"
+    },
+    "movement": {
+      "departure_date": "2026-01-26",
+      "destination_property_pic": "NYrpuj09",
+      "destination_type": "farm",
+      "movement_document_id": "DOC-21f784e9",
+      "previous_property_pic": "NREm77gB"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner eabbb787",
+      "person_in_charge": "Driver dadc32cd"
+    },
+    "stock_details": {
+      "birth_date": "2025-08-17",
+      "bred_on_previous_property": false,
+      "count": 1,
+      "species": "sheep"
+    },
+    "timestamp": "2026-02-25T20:10:25.576978Z"
+  },
+  {
+    "event_id": "0600A582-3FDD-328A-57A2-3BA18347D2CF",
+    "identifier": {
+      "device_type": "electronic_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NY2X0kgk"
+    },
+    "movement": {
+      "departure_date": "2026-02-13",
+      "destination_property_pic": "NLsTaKwI",
+      "destination_type": "abattoir",
+      "movement_document_id": "DOC-afbab0f5",
+      "previous_property_pic": "NY2X0kgk"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 9dc4de8c",
+      "person_in_charge": "Driver 17b66639"
+    },
+    "stock_details": {
+      "birth_date": "2025-09-13",
+      "bred_on_previous_property": false,
+      "count": 2,
+      "species": "goat"
+    },
+    "timestamp": "2026-02-25T20:10:25.576983Z"
+  },
+  {
+    "event_id": "3973C245-6F42-662D-30EA-640C1D057756",
+    "identifier": {
+      "device_type": "post_breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NSmmpDPI"
+    },
+    "movement": {
+      "departure_date": "2026-02-24",
+      "destination_property_pic": "NSo0wqTW",
+      "destination_type": "depot",
+      "movement_document_id": "DOC-f81b9651",
+      "previous_property_pic": "NSmmpDPI"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 363bdfec",
+      "person_in_charge": "Driver c81149e1"
+    },
+    "stock_details": {
+      "birth_date": "2025-12-30",
+      "bred_on_previous_property": true,
+      "count": 14,
+      "species": "cattle"
+    },
+    "timestamp": "2026-02-25T20:10:25.576987Z"
+  },
+  {
+    "event_id": "E25426B8-DAD2-F75D-0BAC-E2B1EDAE07EF",
+    "identifier": {
+      "device_type": "breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NUFLphWt"
+    },
+    "movement": {
+      "departure_date": "2026-02-02",
+      "destination_property_pic": "NGCYgCE3",
+      "destination_type": "depot",
+      "movement_document_id": "DOC-9f87c21b",
+      "previous_property_pic": "NUFLphWt"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner b4383212",
+      "person_in_charge": "Driver d194b74b"
+    },
+    "stock_details": {
+      "birth_date": "2024-12-02",
+      "bred_on_previous_property": false,
+      "count": 37,
+      "species": "goat"
+    },
+    "timestamp": "2026-02-25T20:10:25.576992Z"
+  },
+  {
+    "event_id": "26387C5C-7C2D-9D42-66E9-7D555CCCF4AC",
+    "identifier": {
+      "device_type": "breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NHLVgYFF"
+    },
+    "movement": {
+      "departure_date": "2026-02-12",
+      "destination_property_pic": "NW3W5Kji",
+      "destination_type": "saleyard",
+      "movement_document_id": "DOC-3a9d6181",
+      "previous_property_pic": "NHLVgYFF"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 12afb47f",
+      "person_in_charge": "Driver ef29b5c2"
+    },
+    "stock_details": {
+      "birth_date": "2025-09-20",
+      "bred_on_previous_property": true,
+      "count": 1,
+      "species": "cattle"
+    },
+    "timestamp": "2026-02-25T20:10:25.576996Z"
+  },
+  {
+    "event_id": "180AE5BC-7CD6-1445-93FB-5676478259EB",
+    "identifier": {
+      "device_type": "post_breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NAwCbndz"
+    },
+    "movement": {
+      "departure_date": "2026-02-21",
+      "destination_property_pic": "NWEFwQeg",
+      "destination_type": "saleyard",
+      "movement_document_id": "DOC-35775933",
+      "previous_property_pic": "NAwCbndz"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 070ebb2c",
+      "person_in_charge": "Driver ca99b4c9"
+    },
+    "stock_details": {
+      "birth_date": "2024-03-07",
+      "bred_on_previous_property": false,
+      "count": 22,
+      "species": "cattle"
+    },
+    "timestamp": "2026-02-25T20:10:25.577008Z"
+  },
+  {
+    "event_id": "26C91E78-2B56-F2E8-F8D0-16A557A2C215",
+    "identifier": {
+      "device_type": "breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NEwgXaSG"
+    },
+    "movement": {
+      "departure_date": "2026-02-12",
+      "destination_property_pic": "NSXv01hu",
+      "destination_type": "abattoir",
+      "movement_document_id": "DOC-a61972e4",
+      "previous_property_pic": "NEwgXaSG"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner eff86cd4",
+      "person_in_charge": "Driver db2cbcdb"
+    },
+    "stock_details": {
+      "birth_date": "2024-10-14",
+      "bred_on_previous_property": true,
+      "count": 14,
+      "species": "pig"
+    },
+    "timestamp": "2026-02-25T20:10:25.577018Z"
+  },
+  {
+    "event_id": "807FD2AE-A434-F7D8-CBCA-DCB5C9C06B9F",
+    "identifier": {
+      "device_type": "electronic_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NYaiSvdO"
+    },
+    "movement": {
+      "departure_date": "2026-02-11",
+      "destination_property_pic": "NX5fo00K",
+      "destination_type": "depot",
+      "movement_document_id": "DOC-a99f7217",
+      "previous_property_pic": "NYaiSvdO"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 09af9720",
+      "person_in_charge": "Driver b1e178cb"
+    },
+    "stock_details": {
+      "birth_date": "2025-04-07",
+      "bred_on_previous_property": true,
+      "count": 24,
+      "species": "pig"
+    },
+    "timestamp": "2026-02-25T20:10:25.577022Z"
+  },
+  {
+    "event_id": "71AE699E-A51D-9DF5-BF72-EEA9954B2AFD",
+    "identifier": {
+      "device_type": "brand",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NLXoIUeP"
+    },
+    "movement": {
+      "departure_date": "2026-02-16",
+      "destination_property_pic": "NNuwnXje",
+      "destination_type": "depot",
+      "movement_document_id": "DOC-2b7a8dd9",
+      "previous_property_pic": "NLXoIUeP"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner bef02c0d",
+      "person_in_charge": "Driver 04c43be4"
+    },
+    "stock_details": {
+      "birth_date": "2024-10-15",
+      "bred_on_previous_property": true,
+      "count": 36,
+      "species": "pig"
+    },
+    "timestamp": "2026-02-25T20:10:25.577027Z"
+  },
+  {
+    "event_id": "780052E2-1296-3C10-DCEC-548B31C9C74F",
+    "identifier": {
+      "device_type": "post_breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NUNmRnrg"
+    },
+    "movement": {
+      "departure_date": "2026-01-28",
+      "destination_property_pic": "NZusxqTt",
+      "destination_type": "farm",
+      "movement_document_id": "DOC-2f81bb28",
+      "previous_property_pic": "NUNmRnrg"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 4bc7046d",
+      "person_in_charge": "Driver 31d756a8"
+    },
+    "stock_details": {
+      "birth_date": "2025-03-06",
+      "bred_on_previous_property": true,
+      "count": 49,
+      "species": "pig"
+    },
+    "timestamp": "2026-02-25T20:10:25.577036Z"
+  },
+  {
+    "event_id": "C265D385-8DA9-67EE-1AA7-1C689341B077",
+    "identifier": {
+      "device_type": "breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NLBKDKUh"
+    },
+    "movement": {
+      "departure_date": "2026-01-31",
+      "destination_property_pic": "NUovFr27",
+      "destination_type": "saleyard",
+      "movement_document_id": "DOC-3f98a52b",
+      "previous_property_pic": "NLBKDKUh"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner e10413fe",
+      "person_in_charge": "Driver c4d55da5"
+    },
+    "stock_details": {
+      "birth_date": "2024-02-27",
+      "bred_on_previous_property": true,
+      "count": 46,
+      "species": "pig"
+    },
+    "timestamp": "2026-02-25T20:10:25.577041Z"
+  },
+  {
+    "event_id": "86541D13-3F43-82C5-4CC2-40CE9E710608",
+    "identifier": {
+      "device_type": "post_breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NW7i4Bnk"
+    },
+    "movement": {
+      "departure_date": "2026-01-28",
+      "destination_property_pic": "NJNaxrVw",
+      "destination_type": "farm",
+      "movement_document_id": "DOC-92bd6683",
+      "previous_property_pic": "NW7i4Bnk"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 8955aa1e",
+      "person_in_charge": "Driver 4c55b839"
+    },
+    "stock_details": {
+      "birth_date": "2024-02-28",
+      "bred_on_previous_property": false,
+      "count": 16,
+      "species": "sheep"
+    },
+    "timestamp": "2026-02-25T20:10:25.577045Z"
+  },
+  {
+    "event_id": "2EB40A51-DF85-748B-3313-F29E11C0800D",
+    "identifier": {
+      "device_type": "electronic_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NEIvc3zo"
+    },
+    "movement": {
+      "departure_date": "2026-01-27",
+      "destination_property_pic": "NQyJJiiM",
+      "destination_type": "abattoir",
+      "movement_document_id": "DOC-07c4cf8e",
+      "previous_property_pic": "NEIvc3zo"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 5a3551c3",
+      "person_in_charge": "Driver 0c3456cb"
+    },
+    "stock_details": {
+      "birth_date": "2025-10-29",
+      "bred_on_previous_property": false,
+      "count": 18,
+      "species": "goat"
+    },
+    "timestamp": "2026-02-25T20:10:25.577050Z"
+  },
+  {
+    "event_id": "07AF0840-B417-321A-2932-D07D55D6E246",
+    "identifier": {
+      "device_type": "breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NSp2RZQh"
+    },
+    "movement": {
+      "departure_date": "2026-02-08",
+      "destination_property_pic": "NRoXEwLs",
+      "destination_type": "depot",
+      "movement_document_id": "DOC-769d8e0c",
+      "previous_property_pic": "NSp2RZQh"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 06c77a9d",
+      "person_in_charge": "Driver 229acedf"
+    },
+    "stock_details": {
+      "birth_date": "2024-05-10",
+      "bred_on_previous_property": true,
+      "count": 47,
+      "species": "sheep"
+    },
+    "timestamp": "2026-02-25T20:10:25.577055Z"
+  },
+  {
+    "event_id": "41572A0B-465C-74D1-8F5B-24F19B0A3476",
+    "identifier": {
+      "device_type": "brand",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NE0Mf3q7"
+    },
+    "movement": {
+      "departure_date": "2026-01-29",
+      "destination_property_pic": "NNytLRiV",
+      "destination_type": "farm",
+      "movement_document_id": "DOC-630e4947",
+      "previous_property_pic": "NE0Mf3q7"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 2103dcf4",
+      "person_in_charge": "Driver d5f73cb3"
+    },
+    "stock_details": {
+      "birth_date": "2024-03-05",
+      "bred_on_previous_property": false,
+      "count": 45,
+      "species": "goat"
+    },
+    "timestamp": "2026-02-25T20:10:25.577067Z"
+  },
+  {
+    "event_id": "4D031734-2C0E-2C70-B66A-9F80AAE709AC",
+    "identifier": {
+      "device_type": "post_breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NDjRbR2B"
+    },
+    "movement": {
+      "departure_date": "2026-02-12",
+      "destination_property_pic": "NZ7tm1Re",
+      "destination_type": "abattoir",
+      "movement_document_id": "DOC-ebd5cbc4",
+      "previous_property_pic": "NDjRbR2B"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 5bfcb8a0",
+      "person_in_charge": "Driver 2cc7eb6b"
+    },
+    "stock_details": {
+      "birth_date": "2025-07-24",
+      "bred_on_previous_property": true,
+      "count": 26,
+      "species": "pig"
+    },
+    "timestamp": "2026-02-25T20:10:25.577076Z"
+  },
+  {
+    "event_id": "8A28D81F-520B-971F-F6AC-D333CEE5F1A8",
+    "identifier": {
+      "device_type": "brand",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NGiRSS9B"
+    },
+    "movement": {
+      "departure_date": "2026-02-16",
+      "destination_property_pic": "NJGfku7p",
+      "destination_type": "saleyard",
+      "movement_document_id": "DOC-9786757d",
+      "previous_property_pic": "NGiRSS9B"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 1b59d86d",
+      "person_in_charge": "Driver 2b1bd17b"
+    },
+    "stock_details": {
+      "birth_date": "2024-07-01",
+      "bred_on_previous_property": false,
+      "count": 35,
+      "species": "goat"
+    },
+    "timestamp": "2026-02-25T20:10:25.577081Z"
+  },
+  {
+    "event_id": "BF8424C5-59D3-2528-CFAE-56A7118E9A67",
+    "identifier": {
+      "device_type": "brand",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NFrFs3jz"
+    },
+    "movement": {
+      "departure_date": "2026-01-31",
+      "destination_property_pic": "NTrd8EtI",
+      "destination_type": "depot",
+      "movement_document_id": "DOC-edde30f6",
+      "previous_property_pic": "NFrFs3jz"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner f556999c",
+      "person_in_charge": "Driver d0ed5d02"
+    },
+    "stock_details": {
+      "birth_date": "2024-09-20",
+      "bred_on_previous_property": true,
+      "count": 14,
+      "species": "pig"
+    },
+    "timestamp": "2026-02-25T20:10:25.577085Z"
+  },
+  {
+    "event_id": "B3580068-229F-3FAF-4AA1-8B3121A6E5B8",
+    "identifier": {
+      "device_type": "electronic_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NVBohauv"
+    },
+    "movement": {
+      "departure_date": "2026-01-29",
+      "destination_property_pic": "NQPJ9DJT",
+      "destination_type": "depot",
+      "movement_document_id": "DOC-8c513a13",
+      "previous_property_pic": "NVBohauv"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 56cd82d2",
+      "person_in_charge": "Driver ae911935"
+    },
+    "stock_details": {
+      "birth_date": "2025-08-23",
+      "bred_on_previous_property": true,
+      "count": 47,
+      "species": "sheep"
+    },
+    "timestamp": "2026-02-25T20:10:25.577094Z"
+  },
+  {
+    "event_id": "75518BEA-E5E3-E4E3-834D-6C341F6FEF11",
+    "identifier": {
+      "device_type": "post_breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NCfmJvUC"
+    },
+    "movement": {
+      "departure_date": "2026-02-16",
+      "destination_property_pic": "NPp4zJkF",
+      "destination_type": "abattoir",
+      "movement_document_id": "DOC-d3beda31",
+      "previous_property_pic": "NCfmJvUC"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 34a4a452",
+      "person_in_charge": "Driver 7c7d05d9"
+    },
+    "stock_details": {
+      "birth_date": "2025-04-03",
+      "bred_on_previous_property": false,
+      "count": 22,
+      "species": "cattle"
+    },
+    "timestamp": "2026-02-25T20:10:25.577098Z"
+  },
+  {
+    "event_id": "8159BE7B-8FED-EBC7-0847-965FF9997E9E",
+    "identifier": {
+      "device_type": "electronic_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NW3aJaBh"
+    },
+    "movement": {
+      "departure_date": "2026-02-20",
+      "destination_property_pic": "NMubiuA9",
+      "destination_type": "farm",
+      "movement_document_id": "DOC-31973447",
+      "previous_property_pic": "NW3aJaBh"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 5fa3d550",
+      "person_in_charge": "Driver bd09b822"
+    },
+    "stock_details": {
+      "birth_date": "2025-02-23",
+      "bred_on_previous_property": false,
+      "count": 38,
+      "species": "sheep"
+    },
+    "timestamp": "2026-02-25T20:10:25.577103Z"
+  },
+  {
+    "event_id": "9356A618-5BF7-9560-F0E0-AF2EF22A286D",
+    "identifier": {
+      "device_type": "brand",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NRNafgUG"
+    },
+    "movement": {
+      "departure_date": "2026-02-21",
+      "destination_property_pic": "NUKwGZPF",
+      "destination_type": "abattoir",
+      "movement_document_id": "DOC-07f288b2",
+      "previous_property_pic": "NRNafgUG"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner e54eac62",
+      "person_in_charge": "Driver d7c1b39e"
+    },
+    "stock_details": {
+      "birth_date": "2024-08-22",
+      "bred_on_previous_property": true,
+      "count": 39,
+      "species": "pig"
+    },
+    "timestamp": "2026-02-25T20:10:25.577107Z"
+  },
+  {
+    "event_id": "CA039EFC-78EF-72A8-EC5F-792467EAC1D6",
+    "identifier": {
+      "device_type": "electronic_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NFOMTouQ"
+    },
+    "movement": {
+      "departure_date": "2026-02-14",
+      "destination_property_pic": "NUzV4Jq3",
+      "destination_type": "depot",
+      "movement_document_id": "DOC-2e6358ab",
+      "previous_property_pic": "NFOMTouQ"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 2e65fd2e",
+      "person_in_charge": "Driver 0f4d0eff"
+    },
+    "stock_details": {
+      "birth_date": "2025-04-16",
+      "bred_on_previous_property": true,
+      "count": 42,
+      "species": "sheep"
+    },
+    "timestamp": "2026-02-25T20:10:25.577111Z"
+  },
+  {
+    "event_id": "B70A748F-DF40-3AC0-A909-0B2F3878BC7E",
+    "identifier": {
+      "device_type": "electronic_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NXg10HzA"
+    },
+    "movement": {
+      "departure_date": "2026-02-02",
+      "destination_property_pic": "NR6stL9R",
+      "destination_type": "depot",
+      "movement_document_id": "DOC-13d9a539",
+      "previous_property_pic": "NXg10HzA"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 408408d4",
+      "person_in_charge": "Driver a94592df"
+    },
+    "stock_details": {
+      "birth_date": "2025-12-02",
+      "bred_on_previous_property": true,
+      "count": 7,
+      "species": "pig"
+    },
+    "timestamp": "2026-02-25T20:10:25.577123Z"
+  },
+  {
+    "event_id": "7AD10575-E9E5-F8E0-127C-3BC31F309DB5",
+    "identifier": {
+      "device_type": "breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NPGvPSnx"
+    },
+    "movement": {
+      "departure_date": "2026-02-24",
+      "destination_property_pic": "NQnzykpj",
+      "destination_type": "abattoir",
+      "movement_document_id": "DOC-30916174",
+      "previous_property_pic": "NPGvPSnx"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 6112d37b",
+      "person_in_charge": "Driver aa6feffc"
+    },
+    "stock_details": {
+      "birth_date": "2025-12-23",
+      "bred_on_previous_property": true,
+      "count": 37,
+      "species": "pig"
+    },
+    "timestamp": "2026-02-25T20:10:25.577128Z"
+  },
+  {
+    "event_id": "E8F0BC47-2C72-39F9-9285-A7D12AA726F6",
+    "identifier": {
+      "device_type": "breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NUNPrmGT"
+    },
+    "movement": {
+      "departure_date": "2026-01-31",
+      "destination_property_pic": "NKVo3tSq",
+      "destination_type": "abattoir",
+      "movement_document_id": "DOC-b60bec72",
+      "previous_property_pic": "NUNPrmGT"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 463fc09b",
+      "person_in_charge": "Driver 3fdb450c"
+    },
+    "stock_details": {
+      "birth_date": "2025-11-15",
+      "bred_on_previous_property": false,
+      "count": 19,
+      "species": "pig"
+    },
+    "timestamp": "2026-02-25T20:10:25.577150Z"
+  },
+  {
+    "event_id": "88016DCB-B76C-2538-2B2F-53F3EF78ADB9",
+    "identifier": {
+      "device_type": "electronic_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NPUlAiGh"
+    },
+    "movement": {
+      "departure_date": "2026-02-02",
+      "destination_property_pic": "NUwohlFT",
+      "destination_type": "farm",
+      "movement_document_id": "DOC-34e2b3a2",
+      "previous_property_pic": "NPUlAiGh"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 8d353ce4",
+      "person_in_charge": "Driver 685e90f7"
+    },
+    "stock_details": {
+      "birth_date": "2025-07-04",
+      "bred_on_previous_property": false,
+      "count": 48,
+      "species": "goat"
+    },
+    "timestamp": "2026-02-25T20:10:25.577153Z"
+  },
+  {
+    "event_id": "51F63AAE-AAF7-8BA1-9D7C-0C45C959EEA5",
+    "identifier": {
+      "device_type": "electronic_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NAaexEPN"
+    },
+    "movement": {
+      "departure_date": "2026-02-06",
+      "destination_property_pic": "NHvNSjTj",
+      "destination_type": "abattoir",
+      "movement_document_id": "DOC-a20f42d1",
+      "previous_property_pic": "NAaexEPN"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner e05d16ad",
+      "person_in_charge": "Driver 4ef0b974"
+    },
+    "stock_details": {
+      "birth_date": "2025-02-17",
+      "bred_on_previous_property": true,
+      "count": 45,
+      "species": "sheep"
+    },
+    "timestamp": "2026-02-25T20:10:25.577173Z"
+  },
+  {
+    "event_id": "BC9F4051-D476-495A-2114-00F8DEF478B6",
+    "identifier": {
+      "device_type": "breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NXTIazfk"
+    },
+    "movement": {
+      "departure_date": "2026-02-18",
+      "destination_property_pic": "NQHzeBnb",
+      "destination_type": "farm",
+      "movement_document_id": "DOC-26656ea1",
+      "previous_property_pic": "NXTIazfk"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner f89dc238",
+      "person_in_charge": "Driver 7364ae4f"
+    },
+    "stock_details": {
+      "birth_date": "2025-11-03",
+      "bred_on_previous_property": true,
+      "count": 37,
+      "species": "cattle"
+    },
+    "timestamp": "2026-02-25T20:10:25.577177Z"
+  },
+  {
+    "event_id": "A7CA66AC-C432-576D-250C-82B356D1185B",
+    "identifier": {
+      "device_type": "post_breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NWqv8hHP"
+    },
+    "movement": {
+      "departure_date": "2026-02-08",
+      "destination_property_pic": "NSywrZLE",
+      "destination_type": "abattoir",
+      "movement_document_id": "DOC-33216c5d",
+      "previous_property_pic": "NWqv8hHP"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 4d916343",
+      "person_in_charge": "Driver de07de65"
+    },
+    "stock_details": {
+      "birth_date": "2025-08-04",
+      "bred_on_previous_property": false,
+      "count": 47,
+      "species": "pig"
+    },
+    "timestamp": "2026-02-25T20:10:25.577185Z"
+  },
+  {
+    "event_id": "52F0EE94-60FA-381D-563B-2258432C658F",
+    "identifier": {
+      "device_type": "electronic_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NZu3Wyrr"
+    },
+    "movement": {
+      "departure_date": "2026-02-20",
+      "destination_property_pic": "NWOLNUj0",
+      "destination_type": "farm",
+      "movement_document_id": "DOC-04a71e8a",
+      "previous_property_pic": "NZu3Wyrr"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 18ab75cb",
+      "person_in_charge": "Driver a9d427af"
+    },
+    "stock_details": {
+      "birth_date": "2025-02-07",
+      "bred_on_previous_property": true,
+      "count": 3,
+      "species": "pig"
+    },
+    "timestamp": "2026-02-25T20:10:25.577189Z"
+  },
+  {
+    "event_id": "20F529EC-C1B2-BD61-A86D-C7A4258642BB",
+    "identifier": {
+      "device_type": "breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NZxgyQey"
+    },
+    "movement": {
+      "departure_date": "2026-02-23",
+      "destination_property_pic": "NEhnjV1Q",
+      "destination_type": "saleyard",
+      "movement_document_id": "DOC-887dc2ba",
+      "previous_property_pic": "NZxgyQey"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner bb8ca98d",
+      "person_in_charge": "Driver 114daf23"
+    },
+    "stock_details": {
+      "birth_date": "2024-07-15",
+      "bred_on_previous_property": true,
+      "count": 42,
+      "species": "cattle"
+    },
+    "timestamp": "2026-02-25T20:10:25.577193Z"
+  },
+  {
+    "event_id": "37705331-6988-83BC-BD11-133938E836BC",
+    "identifier": {
+      "device_type": "breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NNUr5XX3"
+    },
+    "movement": {
+      "departure_date": "2026-02-15",
+      "destination_property_pic": "NABwotru",
+      "destination_type": "farm",
+      "movement_document_id": "DOC-4c20b61a",
+      "previous_property_pic": "NNUr5XX3"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 2e62b37c",
+      "person_in_charge": "Driver 1bd65532"
+    },
+    "stock_details": {
+      "birth_date": "2025-05-23",
+      "bred_on_previous_property": true,
+      "count": 27,
+      "species": "cattle"
+    },
+    "timestamp": "2026-02-25T20:10:25.577200Z"
+  },
+  {
+    "event_id": "B1695173-05AF-B9ED-947F-04B25E0329D0",
+    "identifier": {
+      "device_type": "electronic_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NLEgwE67"
+    },
+    "movement": {
+      "departure_date": "2026-02-22",
+      "destination_property_pic": "NLO6619V",
+      "destination_type": "saleyard",
+      "movement_document_id": "DOC-10858310",
+      "previous_property_pic": "NLEgwE67"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 08a6a8e6",
+      "person_in_charge": "Driver 3c34a401"
+    },
+    "stock_details": {
+      "birth_date": "2025-12-20",
+      "bred_on_previous_property": true,
+      "count": 3,
+      "species": "sheep"
+    },
+    "timestamp": "2026-02-25T20:10:25.577205Z"
+  },
+  {
+    "event_id": "A80309BC-6AA9-11AB-2D68-5C2A203EBA26",
+    "identifier": {
+      "device_type": "post_breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NG3OBuof"
+    },
+    "movement": {
+      "departure_date": "2026-01-28",
+      "destination_property_pic": "NMjNLBSv",
+      "destination_type": "farm",
+      "movement_document_id": "DOC-f3e16b12",
+      "previous_property_pic": "NG3OBuof"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner cb0ddeca",
+      "person_in_charge": "Driver 68484492"
+    },
+    "stock_details": {
+      "birth_date": "2024-11-26",
+      "bred_on_previous_property": false,
+      "count": 49,
+      "species": "sheep"
+    },
+    "timestamp": "2026-02-25T20:10:25.577209Z"
+  },
+  {
+    "event_id": "32AA4933-5090-5812-A999-8AE22EABEDE5",
+    "identifier": {
+      "device_type": "post_breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NUY2tRWb"
+    },
+    "movement": {
+      "departure_date": "2026-02-08",
+      "destination_property_pic": "NMsbDKg1",
+      "destination_type": "farm",
+      "movement_document_id": "DOC-dff09bf9",
+      "previous_property_pic": "NUY2tRWb"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 713e05ec",
+      "person_in_charge": "Driver 2583f368"
+    },
+    "stock_details": {
+      "birth_date": "2025-08-08",
+      "bred_on_previous_property": false,
+      "count": 9,
+      "species": "pig"
+    },
+    "timestamp": "2026-02-25T20:10:25.577213Z"
+  },
+  {
+    "event_id": "1A7757F8-0DA1-D10B-1A3D-7FABFF229FE2",
+    "identifier": {
+      "device_type": "brand",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NJtZlUYg"
+    },
+    "movement": {
+      "departure_date": "2026-02-13",
+      "destination_property_pic": "NHIpSOnY",
+      "destination_type": "depot",
+      "movement_document_id": "DOC-132bcda9",
+      "previous_property_pic": "NJtZlUYg"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 554fda6e",
+      "person_in_charge": "Driver dec5b9cb"
+    },
+    "stock_details": {
+      "birth_date": "2024-10-20",
+      "bred_on_previous_property": true,
+      "count": 25,
+      "species": "pig"
+    },
+    "timestamp": "2026-02-25T20:10:25.577216Z"
+  },
+  {
+    "event_id": "54D394A9-5D52-680E-3C85-F34484CE237A",
+    "identifier": {
+      "device_type": "electronic_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NSETzEac"
+    },
+    "movement": {
+      "departure_date": "2026-02-19",
+      "destination_property_pic": "NZv0fHPz",
+      "destination_type": "depot",
+      "movement_document_id": "DOC-da9193a4",
+      "previous_property_pic": "NSETzEac"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 4fe7a63d",
+      "person_in_charge": "Driver 2250e241"
+    },
+    "stock_details": {
+      "birth_date": "2025-08-22",
+      "bred_on_previous_property": false,
+      "count": 2,
+      "species": "goat"
+    },
+    "timestamp": "2026-02-25T20:10:25.577227Z"
+  },
+  {
+    "event_id": "60F7F262-61B2-223D-63D3-B06265996E14",
+    "identifier": {
+      "device_type": "electronic_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "ND8rgUBl"
+    },
+    "movement": {
+      "departure_date": "2026-02-11",
+      "destination_property_pic": "NTIqhiem",
+      "destination_type": "abattoir",
+      "movement_document_id": "DOC-56bef471",
+      "previous_property_pic": "ND8rgUBl"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner ca9825e1",
+      "person_in_charge": "Driver 05414f3c"
+    },
+    "stock_details": {
+      "birth_date": "2025-09-13",
+      "bred_on_previous_property": true,
+      "count": 44,
+      "species": "goat"
+    },
+    "timestamp": "2026-02-25T20:10:25.577235Z"
+  },
+  {
+    "event_id": "82C4E3DB-B053-B29A-B335-A3E01FCFDAC8",
+    "identifier": {
+      "device_type": "brand",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NHUYMMvV"
+    },
+    "movement": {
+      "departure_date": "2026-02-03",
+      "destination_property_pic": "NU2fGeET",
+      "destination_type": "depot",
+      "movement_document_id": "DOC-6576b7ba",
+      "previous_property_pic": "NHUYMMvV"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 20a09a5b",
+      "person_in_charge": "Driver ab23fab0"
+    },
+    "stock_details": {
+      "birth_date": "2025-06-22",
+      "bred_on_previous_property": true,
+      "count": 1,
+      "species": "pig"
+    },
+    "timestamp": "2026-02-25T20:10:25.577239Z"
+  },
+  {
+    "event_id": "C2BC5D6F-86AC-CE52-A22D-2F402C54799D",
+    "identifier": {
+      "device_type": "breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NUqhqL51"
+    },
+    "movement": {
+      "departure_date": "2026-01-28",
+      "destination_property_pic": "NYwoG3ar",
+      "destination_type": "depot",
+      "movement_document_id": null,
+      "previous_property_pic": "NUqhqL51"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 0496b9c2",
+      "person_in_charge": "Driver 798953f6"
+    },
+    "stock_details": {
+      "birth_date": "2024-09-02",
+      "bred_on_previous_property": false,
+      "count": 14,
+      "species": "cattle"
+    },
+    "timestamp": "2026-02-25T20:10:25.577243Z"
+  },
+  {
+    "event_id": "10C6DE06-1208-EC99-AE3D-A27DF118C683",
+    "identifier": {
+      "device_type": "electronic_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NQsv1xQC"
+    },
+    "movement": {
+      "departure_date": "2026-01-28",
+      "destination_property_pic": "NUrG2hN3",
+      "destination_type": "farm",
+      "movement_document_id": null,
+      "previous_property_pic": "NQsv1xQC"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 1836761e",
+      "person_in_charge": "Driver de144e32"
+    },
+    "stock_details": {
+      "birth_date": "2025-02-12",
+      "bred_on_previous_property": false,
+      "count": 29,
+      "species": "sheep"
+    },
+    "timestamp": "2026-02-25T20:10:25.577251Z"
+  },
+  {
+    "event_id": "5D020C15-B332-0790-D616-6E6B0B2F1EFF",
+    "identifier": {
+      "device_type": "post_breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NUqJDTvJ"
+    },
+    "movement": {
+      "departure_date": "2026-01-28",
+      "destination_property_pic": "NM0t9WY7",
+      "destination_type": "abattoir",
+      "movement_document_id": null,
+      "previous_property_pic": "NUqJDTvJ"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 9250af81",
+      "person_in_charge": "Driver a8830f0a"
+    },
+    "stock_details": {
+      "birth_date": "2024-02-08",
+      "bred_on_previous_property": false,
+      "count": 44,
+      "species": "cattle"
+    },
+    "timestamp": "2026-02-25T20:10:25.577255Z"
+  },
+  {
+    "event_id": "9E955C01-CF60-15B5-6911-C526201EF453",
+    "identifier": {
+      "device_type": "electronic_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NRzl7eHy"
+    },
+    "movement": {
+      "departure_date": "2026-02-09",
+      "destination_property_pic": "NVthRGLh",
+      "destination_type": "saleyard",
+      "movement_document_id": null,
+      "previous_property_pic": "NRzl7eHy"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner b34e76ac",
+      "person_in_charge": "Driver d9cd06b9"
+    },
+    "stock_details": {
+      "birth_date": "2024-06-25",
+      "bred_on_previous_property": false,
+      "count": 31,
+      "species": "goat"
+    },
+    "timestamp": "2026-02-25T20:10:25.577259Z"
+  },
+  {
+    "event_id": "CB7A5F78-812C-930F-02ED-908B00F86A5B",
+    "identifier": {
+      "device_type": "electronic_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NUiRYfq3"
+    },
+    "movement": {
+      "departure_date": "2026-01-26",
+      "destination_property_pic": "NDcnxWAx",
+      "destination_type": "farm",
+      "movement_document_id": null,
+      "previous_property_pic": "NUiRYfq3"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner aacc26bd",
+      "person_in_charge": "Driver 9d3b9408"
+    },
+    "stock_details": {
+      "birth_date": "2024-09-06",
+      "bred_on_previous_property": true,
+      "count": 27,
+      "species": "cattle"
+    },
+    "timestamp": "2026-02-25T20:10:25.577263Z"
+  },
+  {
+    "event_id": "DBD3641F-0426-0D0F-7BE1-BBC28E9B87A5",
+    "identifier": {
+      "device_type": "breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NQumNwPv"
+    },
+    "movement": {
+      "departure_date": "2026-02-07",
+      "destination_property_pic": "NU3G8qgP",
+      "destination_type": "saleyard",
+      "movement_document_id": "DOC-3228fa81",
+      "previous_property_pic": "NMha9xSX"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 1acc56be",
+      "person_in_charge": "Driver cfcc682b"
+    },
+    "stock_details": {
+      "birth_date": "2025-06-01",
+      "bred_on_previous_property": true,
+      "count": 47,
+      "species": "pig"
+    },
+    "timestamp": "2026-02-25T20:10:25.577267Z"
+  },
+  {
+    "event_id": "5A5A7333-E2BC-9B74-F371-F5EA70BCE473",
+    "identifier": {
+      "device_type": "electronic_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NN5dl2Hj"
+    },
+    "movement": {
+      "departure_date": "2026-02-10",
+      "destination_property_pic": "NR66wNWP",
+      "destination_type": "farm",
+      "movement_document_id": "DOC-f1950301",
+      "previous_property_pic": "NMot7IAT"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 3e99c105",
+      "person_in_charge": "Driver 67fee01c"
+    },
+    "stock_details": {
+      "birth_date": "2024-05-10",
+      "bred_on_previous_property": false,
+      "count": 26,
+      "species": "cattle"
+    },
+    "timestamp": "2026-02-25T20:10:25.577279Z"
+  },
+  {
+    "event_id": "56EAB923-8298-753E-8856-76D9AE79A0BD",
+    "identifier": {
+      "device_type": "electronic_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NEuKTdvr"
+    },
+    "movement": {
+      "departure_date": "2026-02-14",
+      "destination_property_pic": "NNUbJugs",
+      "destination_type": "depot",
+      "movement_document_id": "DOC-36e8efb1",
+      "previous_property_pic": "NNiAwFmR"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner a6f7521e",
+      "person_in_charge": "Driver c7f953f5"
+    },
+    "stock_details": {
+      "birth_date": "2025-08-26",
+      "bred_on_previous_property": false,
+      "count": 28,
+      "species": "goat"
+    },
+    "timestamp": "2026-02-25T20:10:25.577289Z"
+  },
+  {
+    "event_id": "6F10CA25-02B0-9491-D7A4-BF11649BD78A",
+    "identifier": {
+      "device_type": "electronic_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NE1QB6Cj"
+    },
+    "movement": {
+      "departure_date": "2026-02-06",
+      "destination_property_pic": "NQ41TpqJ",
+      "destination_type": "depot",
+      "movement_document_id": "DOC-3ae4c999",
+      "previous_property_pic": "NFnYWBwF"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 4c153c08",
+      "person_in_charge": "Driver 9c1cd563"
+    },
+    "stock_details": {
+      "birth_date": "2025-03-18",
+      "bred_on_previous_property": true,
+      "count": 16,
+      "species": "pig"
+    },
+    "timestamp": "2026-02-25T20:10:25.577293Z"
+  },
+  {
+    "event_id": "C5DCB933-199D-F9A1-43D8-74842866F0F2",
+    "identifier": {
+      "device_type": "electronic_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NYjKLiU4"
+    },
+    "movement": {
+      "departure_date": "2026-01-31",
+      "destination_property_pic": "NN3RYNr1",
+      "destination_type": "abattoir",
+      "movement_document_id": "DOC-e10b3194",
+      "previous_property_pic": "NNxhky2g"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner eab9e1b9",
+      "person_in_charge": "Driver d40c26fc"
+    },
+    "stock_details": {
+      "birth_date": "2025-03-25",
+      "bred_on_previous_property": true,
+      "count": 9,
+      "species": "goat"
+    },
+    "timestamp": "2026-02-25T20:10:25.577298Z"
+  },
+  {
+    "event_id": "41A5D153-62D8-38E0-855A-13E0F97AB80F",
+    "identifier": {
+      "device_type": "post_breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NPQQPiSf"
+    },
+    "movement": {
+      "departure_date": "2026-01-26",
+      "destination_property_pic": "NYQn6Aaf",
+      "destination_type": "abattoir",
+      "movement_document_id": "DOC-00432882",
+      "previous_property_pic": "NPQQPiSf"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 0e801680",
+      "person_in_charge": "Driver 52f62e24"
+    },
+    "stock_details": {
+      "birth_date": "2025-02-05",
+      "bred_on_previous_property": false,
+      "count": 2,
+      "species": "goat"
+    },
+    "timestamp": "2026-02-25T20:10:25.577305Z"
+  },
+  {
+    "event_id": "EA58D2AA-7622-B0E3-8200-5FADC728C8B5",
+    "identifier": {
+      "device_type": "breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NEQ3U0IZ"
+    },
+    "movement": {
+      "departure_date": "2026-01-26",
+      "destination_property_pic": "NHpUACIO",
+      "destination_type": "abattoir",
+      "movement_document_id": "DOC-d57d0252",
+      "previous_property_pic": "NEQ3U0IZ"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 4491f657",
+      "person_in_charge": "Driver 7b1ded04"
+    },
+    "stock_details": {
+      "birth_date": "2025-02-17",
+      "bred_on_previous_property": true,
+      "count": 4,
+      "species": "sheep"
+    },
+    "timestamp": "2026-02-25T20:10:25.577309Z"
+  },
+  {
+    "event_id": "922E44AD-D4E3-B69D-2415-8E3B31A03268",
+    "identifier": {
+      "device_type": "brand",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NXpQ7psc"
+    },
+    "movement": {
+      "departure_date": "2026-02-21",
+      "destination_property_pic": "NHTyNl1G",
+      "destination_type": "depot",
+      "movement_document_id": "DOC-6572c1ea",
+      "previous_property_pic": "NXpQ7psc"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 0c9e6bba",
+      "person_in_charge": "Driver 45f7020c"
+    },
+    "stock_details": {
+      "birth_date": "2025-01-14",
+      "bred_on_previous_property": true,
+      "count": 1,
+      "species": "sheep"
+    },
+    "timestamp": "2026-02-25T20:10:25.577313Z"
+  },
+  {
+    "event_id": "2F0A1292-44F3-B274-DBAD-9942A7E1BD60",
+    "identifier": {
+      "device_type": "breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NFFxIAgf"
+    },
+    "movement": {
+      "departure_date": "2026-02-24",
+      "destination_property_pic": "NEWL2t2F",
+      "destination_type": "saleyard",
+      "movement_document_id": "DOC-cee8fe3f",
+      "previous_property_pic": "NFFxIAgf"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner cd1636b3",
+      "person_in_charge": "Driver 5dc4481d"
+    },
+    "stock_details": {
+      "birth_date": "2025-01-25",
+      "bred_on_previous_property": true,
+      "count": 24,
+      "species": "sheep"
+    },
+    "timestamp": "2026-02-25T20:10:25.577317Z"
+  },
+  {
+    "event_id": "F12F8E2E-7E59-8682-8647-ED21BD270E82",
+    "identifier": {
+      "device_type": "breeder_device",
+      "is_nlis_accredited": true,
+      "is_readable": true,
+      "is_working": true,
+      "pic_on_device": "NKyxvOA9"
+    },
+    "movement": {
+      "departure_date": "2026-01-27",
+      "destination_property_pic": "NMTJsnYp",
+      "destination_type": "depot",
+      "movement_document_id": "DOC-ce719248",
+      "previous_property_pic": "NKyxvOA9"
+    },
+    "responsible_persons": {
+      "owner_address": "123 Rural Rd, NSW",
+      "owner_name": "Owner 3a3d7db9",
+      "person_in_charge": "Driver 4a0d7599"
+    },
+    "stock_details": {
+      "birth_date": "2025-01-16",
+      "bred_on_previous_property": true,
+      "count": 41,
+      "species": "goat"
+    },
+    "timestamp": "2026-02-25T20:10:25.577321Z"
+  }
+]
