@@ -4,6 +4,16 @@ Research prototype for verifying selected NSW NLIS livestock movement compliance
 
 This is a single-run, file-based verifier implemented as a plain Mix project (no Phoenix, no Ecto, no OTP runtime services).
 
+## Research Context
+
+This prototype is part of an MRes research project investigating:
+
+> To what extent can deterministic compliance obligations under NSW Clauses 17, 18, and 32 be completely and unambiguously encoded as machine-evaluable rules, and what are the design implications for a verification framework of obligations that resist full formalisation?
+
+Methodology: Design Science Research.
+Primary artefact: A formal rule-based conformance framework,
+validated through this prototype implementation.
+
 ## Purpose
 
 This project demonstrates an auditable, deterministic rule-evaluation pipeline that:
