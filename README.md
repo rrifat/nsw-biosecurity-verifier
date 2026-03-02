@@ -190,6 +190,8 @@ Then inspect:
 
 - `docs/rule-traceability.md` - clause-to-code mapping and outcome semantics
 - `docs/verification-methodology.md` - data generation, evaluation workflow, and interpretation guidance
+- `docs/ontology-sketch.md` - define the domain model rules operate on
+- `docs/research-design.md` - phases of DSR methodology
 
 ## Known Limitations
 
